@@ -1,3 +1,2 @@
+<<<<<<< HEAD
 # Chouraya
-
-'git init'
